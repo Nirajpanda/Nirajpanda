@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: #eaf6f6;
+}
+
+h1{
+    color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
+h4{
+    color: #66bfbf;
+    
+}
+.first-container{
+    text-align: left;
+    margin: auto;
+    position: absolute;
+    left: 40%;
+    top: 20%;
+
+}
+
